@@ -28,7 +28,7 @@ Then paste your link... that’s it.
 2. Clone this repo
 Click Code → Download ZIP, or:
 ```
-git clone https://github.com/YOURUSERNAME/cdown.git
+git clone https://github.com/crammiee/cDown.git
 ```
 
 3. Add cdown to your PATH
