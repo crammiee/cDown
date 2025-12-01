@@ -1,4 +1,4 @@
-# cdown
+# cDown
 **A tiny command-line helper script that simplifies downloading MP3 or MP4 files using yt-dlp.**
 
 Instead of typing long commands, you can run:
